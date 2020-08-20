@@ -1,2 +1,3 @@
 this is test file
 This is added thru vi command
+this line added for testing merge
